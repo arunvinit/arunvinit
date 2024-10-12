@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/C5112AQEoq9MxhwjOcA/article-cover_image-shrink_600_2000/0/1558900050534?e=2147483647&v=beta&t=S151jyZ2WZGWLfHpE9wj8W4_o1XIflHWJBk881m9R2Y)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img alt="Coding" align="right" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
