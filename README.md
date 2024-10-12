@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arunvinit.github.io/Arun-Portfolio/](https://arunvinit.github.io/Arun-Portfolio/)
 
-- 💬 Ask me about **React,Node,Express,MongoDB,HTML,CSS,JS,C++**
+- 💬 Ask me about **React,Node,Express,MongoDB,C++,HTML,CSS,JS,ejs,Data structures and algorithms**
 
 - 📫 How to reach me **arunkumar.mr942@gmail.com**
 
