@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arun-kumar-2833821b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-kumar-2833821b4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arun_vinit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun_vinit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arun_vinit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arun_vinit" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arun_vinit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arun_vinit" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arunkumarmr942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arunkumarmr942" height="30" width="40" /></a>
 </p>
 
